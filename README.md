@@ -4,6 +4,7 @@ A customised front-end accounting dashboard built for the **Logistics & Transpor
 
 ## Live Demo
 
+🔗 [View Deployed App](https://officialravleensingh.github.io/hellobook_assignment/)
 
 ---
 
